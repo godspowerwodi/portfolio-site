@@ -8,12 +8,12 @@ layout: default
 
 ---
 
-## `./experience.sh`
+## Experience
 
 ### Data Engineer II @ BT Group
 `[Sep 2023 - Present]`
-- Modernised legacy infrastructure for financial reporting, enabling scalable cloud-based analytics.
-- Built batch and near-real-time data ingestion pipelines using cloud-native event-driven patterns.
+- Modernised legacy infrastructure for financial reporting, enabling scalable cloud-based analytics and reduce monthly manhours by 1920/month.
+- Built batch and near-real-time data ingestion pipelines using cloud-native event-driven and batch patterns.
 - Redesigned existing architecture and optimised orchestration to reduce compute resources and improve runtimes.
 - Designed multidimensional data models and implemented semantic layers to transform complex data into trusted analytics datasets.
 - Strengthened data governance and observability with comprehensive IAM controls, alerting, and automated testing.
@@ -39,7 +39,7 @@ layout: default
 
 ---
 
-## `./featured_works.sh`
+## Featured Works
 
 ### UK Sponsorship Job Scouter
 [[Source](https://github.com/godspowerwodi/uk-sponsorship-scraper)]  
@@ -68,7 +68,7 @@ A graphical user interface desktop application featuring robust event-driven wor
 
 ---
 
-## `./skills_and_certs.sh`
+## Skills & Certifications
 
 ### Technical Arsenal
 ```text
@@ -86,4 +86,4 @@ Docker & K8s        dbt
 - **Microsoft Azure Data/AI Fundamentals** (Microsoft)
 
 ---
-*sys.exit(0) | Designed & Built for GP.*
+*Designed & Built for GP.*
